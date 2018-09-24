@@ -1,0 +1,6 @@
+# Message broker - Mosquitto properties  
+mqtt:
+  url: ssl://10.116.25.23:8883
+  username: melguard
+  password: melguard
+  ca-file: mosq-ca.crt
